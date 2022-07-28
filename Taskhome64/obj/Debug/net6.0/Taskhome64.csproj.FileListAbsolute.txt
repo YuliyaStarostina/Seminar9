@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\bin\Debug\net6.0\Taskhome64.exe
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\bin\Debug\net6.0\Taskhome64.deps.json
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\bin\Debug\net6.0\Taskhome64.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\bin\Debug\net6.0\Taskhome64.dll
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\bin\Debug\net6.0\Taskhome64.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.dll
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\refint\Taskhome64.dll
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\Taskhome64.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\Taskhome64\obj\Debug\net6.0\ref\Taskhome64.dll
