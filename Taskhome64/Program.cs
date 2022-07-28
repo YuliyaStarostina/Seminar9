@@ -1,18 +1,17 @@
 ﻿/* Задача 64: Задайте значения M и N. 
-Напишите программу, которая выведет 
-все натуральные числа в промежутке от M до N.
-M = 1; N = 5. -> ""1, 2, 3, 4, 5""
-M = 4; N = 8. -> ""4, 6, 7, 8"" */
+Напишите программу, которая найдёт 
+сумму натуральных элементов в промежутке от M до N.
+M = 1; N = 15 -> 120
+M = 4; N = 8. -> 30 */
 
-Console.WriteLine("Вывести все натуральные числа в промежутке от M до N.");
 Console.WriteLine("Введите значение числа М: ");
 int M = int.Parse(Console.ReadLine()!);
 Console.WriteLine("Введите значение числа N: ");
 int N = int.Parse(Console.ReadLine()!);
-Console.WriteLine(NaturalNumberRecursivno(M,N)); 
+Console.WriteLine($"Сумма натуральных элементов равна {SumNaturalNumberRecursivno(M,N)}"); 
 
-string NaturalNumberRecursivno(int numberFirst, int numberSecond)
+int SumNaturalNumberRecursivno(int numberFirst, int numberSecond)
 {
-    if (numberFirst == numberSecond) return numberSecond.ToString();
-    else return (numberFirst + ", " + NaturalNumberRecursivno(numberFirst+1, numberSecond));
+    if (numberFirst == numberSecond) return numberSecond;
+    else return (numberFirst + SumNaturalNumberRecursivno(numberFirst + 1, numberSecond));
 }
