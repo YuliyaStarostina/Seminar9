@@ -1,0 +1,15 @@
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\bin\Debug\net6.0\ZD67.exe
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\bin\Debug\net6.0\ZD67.deps.json
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\bin\Debug\net6.0\ZD67.runtimeconfig.json
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\bin\Debug\net6.0\ZD67.dll
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\bin\Debug\net6.0\ZD67.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.dll
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\refint\ZD67.dll
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.pdb
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ZD67.genruntimeconfig.cache
+C:\Users\Asus\Desktop\Обучение\Seminar9\ZD67\obj\Debug\net6.0\ref\ZD67.dll
